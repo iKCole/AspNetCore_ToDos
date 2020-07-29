@@ -138,3 +138,4 @@
 /Users/ike/Documents/PF1/NET_CShsrp/SampleProjectsForAspNetCore/AspNetCoreToDo/AspNetCoreToDo/bin/Debug/netcoreapp3.1/zh-Hans/Humanizer.resources.dll
 /Users/ike/Documents/PF1/NET_CShsrp/SampleProjectsForAspNetCore/AspNetCoreToDo/AspNetCoreToDo/bin/Debug/netcoreapp3.1/zh-Hant/Humanizer.resources.dll
 /Users/ike/Documents/PF1/NET_CShsrp/SampleProjectsForAspNetCore/AspNetCoreToDo/AspNetCoreToDo/obj/Debug/netcoreapp3.1/Razor/Views/Todo/AddItemPartial.cshtml.g.cs
+/Users/ike/Documents/PF1/NET_CShsrp/SampleProjectsForAspNetCore/AspNetCoreToDo/AspNetCoreToDo/obj/Debug/netcoreapp3.1/Razor/Views/ManageUsers/Index.cshtml.g.cs

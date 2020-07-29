@@ -20561,6 +20561,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/ike/Documents/PF1/NET_CShsrp/SampleProjectsForAspNetCore/AspNetCoreToDo/AspNetCoreToDo/Views/ManageUsers/Index.cshtml",
+      "TargetPath": "Views\\ManageUsers\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/ike/Documents/PF1/NET_CShsrp/SampleProjectsForAspNetCore/AspNetCoreToDo/AspNetCoreToDo/Views/_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
